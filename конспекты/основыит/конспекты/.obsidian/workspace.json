@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "14.TypeScript"
             }
+          },
+          {
+            "id": "314e85f706d30f21",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,14 +198,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "cc9872aa0ed79760",
+  "active": "314e85f706d30f21",
   "lastOpenFiles": [
+    "Введение в Python и TypeScpipt/14.TypeScript.md",
     "Основы информационных технологий/Элементы комбинаторики , теории множеств  и мат.   логики..md",
     "Основы информационных технологий/Вртуальная машина.md",
     "Снимок экрана (16).png",
     "ОС/6-е массовое вымирание виноват ли человек.md",
     "ОС/ОС по ОИТ.md",
-    "Введение в Python и TypeScpipt/14.TypeScript.md",
     "Введение в Python и TypeScpipt/1.Введение в Python.md",
     "Введение в Python и TypeScpipt/13.Магический шар.md",
     "Введение в Python и TypeScpipt/12.Списки.md",
