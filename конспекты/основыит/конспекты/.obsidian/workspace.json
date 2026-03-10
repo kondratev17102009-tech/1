@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "586a0e7dbed5eeef",
+    "id": "431edc237e588dca",
     "type": "split",
     "children": [
       {
-        "id": "f5d289444aa91a7a",
+        "id": "1aad3697593aa49f",
         "type": "tabs",
         "children": [
           {
-            "id": "4775ce6dcc712241",
+            "id": "a707c2f0ec88b1b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Индивидуальный Проэкт/Рефлексия/Рефлексия 4.md",
+                "file": "1. Индивидуальный Проэкт/Рефлексия/Peфлексия 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Рефлексия 4"
+              "title": "Peфлексия 3"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "076abf6910c4f027",
+    "id": "60b155898888111b",
     "type": "split",
     "children": [
       {
-        "id": "679bc896f867393b",
+        "id": "79818fe9541a2251",
         "type": "tabs",
         "children": [
           {
-            "id": "5f44868d80e35dcd",
+            "id": "42262c36fa18d407",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "56406d5c6204e296",
+            "id": "93ad1c2ca25f6b36",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Определения",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "59b98ccc1a021798",
+            "id": "617f1158a6cbd75f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 300
   },
   "right": {
-    "id": "ee989d03b289c8bd",
+    "id": "b2604392bc12c31f",
     "type": "split",
     "children": [
       {
-        "id": "1860f2fecad2fc06",
+        "id": "a6485d9c67640f77",
         "type": "tabs",
         "children": [
           {
-            "id": "46801eaad7372d99",
+            "id": "eb42964e42c051f8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия 1.canvas",
+                "file": "1. Индивидуальный Проэкт/Рефлексия/Peфлексия 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия 1"
+              "title": "Обратные ссылки для Peфлексия 3"
             }
           },
           {
-            "id": "8c96ae391502f066",
+            "id": "64d5dbd8667963f8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Индивидуальный Проэкт/Рефлексия/Peфлексия 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Peфлексия 3"
             }
           },
           {
-            "id": "ddb97985266dce2e",
+            "id": "8eca0d250f7b5059",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,35 +137,26 @@
             }
           },
           {
-            "id": "da9c10fdc5547cf9",
+            "id": "f6b1bb0d0f69d9a5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "1. Индивидуальный Проэкт/Рефлексия/Peфлексия 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
-            }
-          },
-          {
-            "id": "de0fc2bad4190eca",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Структура Peфлексия 3"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,56 +169,6 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "4775ce6dcc712241",
-  "lastOpenFiles": [
-    "1. Индивидуальный Проэкт/Рефлексия/Pефлексия 2.md",
-    "1. Индивидуальный Проэкт/Рефлексия/Peфлексия 3.md",
-    "1. Индивидуальный Проэкт/Рефлексия/Рефлексия.md",
-    "1. Индивидуальный Проэкт/Рефлексия/Рефлексия 4.md",
-    "2. Конфигурация Windows 10/bat-файла и утилиту WinGet.md",
-    "1. Индивидуальный Проэкт/1 Спринт/TOdo 1.md",
-    "1. Индивидуальный Проэкт/1 Спринт/Ретроспектива.md",
-    "Основы информационных технологий/Элементы комбинаторики , теории множеств  и мат.   логики..md",
-    "Основы информационных технологий/Списки графы и деревья..md",
-    "Основы информационных технологий/Знакомство с линукс.md",
-    "Основы информационных технологий/Вртуальная машина.md",
-    "фото/Таблица.canvas",
-    "1. Индивидуальный Проэкт/Возможности интеграции системы контроля версии в ваш проект.md",
-    "1. Индивидуальный Проэкт/Код ИП.md",
-    "1. Индивидуальный Проэкт/Ретро спектива.md",
-    "2. Конфигурация Windows 10/Утилита Diskpart..md",
-    "2. Конфигурация Windows 10/Сценарий.md",
-    "2. Конфигурация Windows 10/Практика использования.md",
-    "2. Конфигурация Windows 10/Введение.md",
-    "1. Индивидуальный Проэкт/Введение.md",
-    "Снимок экрана (19).png",
-    "Мусор/коды/Q1 Математическая задача.md",
-    "Мусор/коды/Код.md",
-    "Мусор/коды/Квиз.md",
-    "Мусор/коды/задача 71 литкод.md",
-    "Мусор/коды/67 задача.md",
-    "1. Индивидуальный Проэкт/1 Спринт/Артефакты.md",
-    "1. Индивидуальный Проэкт/5 Спринт/Todo.md",
-    "Мусор/Новый документ.pdf",
-    "Мусор/Без названия 1.base",
-    "1. Индивидуальный Проэкт/5 Спринт",
-    "2. Конфигурация Windows 10",
-    "Индивидуальный Проэкт/1 Спринт/Без названия",
-    "1. Индивидуальный Проэкт/4 Спринт",
-    "1. Индивидуальный Проэкт/3 Спринт",
-    "1. Индивидуальный Проэкт/2 Спринт",
-    "1. Индивидуальный Проэкт/1 Спринт",
-    "фото/Снимок экрана (16).png",
-    "фото/Pasted image 20260217102456.png",
-    "фото/Pasted image 20260217102041.png",
-    "фото/Pasted image 20260217100656.png",
-    "фото/Pasted image 20260204114137.png",
-    "Ненужное",
-    "фото/Pasted image 20260217101314.png",
-    "Снимок экрана (12).png",
-    "Без названия.canvas",
-    "Без названия 1.canvas",
-    "Безымянный.png",
-    "Pasted image 20251114102106.png"
-  ]
+  "active": "a707c2f0ec88b1b3",
+  "lastOpenFiles": []
 }
