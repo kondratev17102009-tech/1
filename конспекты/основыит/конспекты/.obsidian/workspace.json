@@ -11,12 +11,14 @@
             "id": "4775ce6dcc712241",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "10. Мусор/Снимок экрана (21).png"
+                "file": "Рефлексия/Рефлексия(28.04.26).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Снимок экрана (21)"
+              "icon": "lucide-file",
+              "title": "Рефлексия(28.04.26)"
             }
           }
         ]
@@ -175,13 +177,13 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "5f44868d80e35dcd",
+  "active": "4775ce6dcc712241",
   "lastOpenFiles": [
+    "10. Мусор/Снимок экрана (21).png",
     "2. Конфигурация Windows 10/Введение.md",
     "2. Конфигурация Windows 10/Оптимизация Windows 10.md",
     "Рефлексия/Рефлексия (02.04.26).md",
     "Рефлексия/Рефлексия(28.04.26).md",
-    "10. Мусор/Снимок экрана (21).png",
     "9. фото/Pasted image 20260204114137.png",
     "9. фото/Pasted image 20260217102456.png",
     "9. фото/Pasted image 20260217102041.png",
@@ -212,7 +214,6 @@
     "6. Введение в Python и TypeScpipt/10.Переменная и типы данных.md",
     "6. Введение в Python и TypeScpipt/11.Циклы.md",
     "6. Введение в Python и TypeScpipt/12.Списки.md",
-    "6. Введение в Python и TypeScpipt/14.TypeScript.md",
     "9. фото/Снимок экрана (19).png",
     "10. Мусор/Новый документ.pdf",
     "10. Мусор/Без названия 1.base",
