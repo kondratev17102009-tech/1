@@ -1,3 +1,4 @@
+#Макросы #VBA #Calc #Basic
 Макросы в LibreOffice пишутся на языке LibreOffice Basic, но программа также поддерживает множество функций VBA (Visual Basic for Applications) для совместимости с документами Microsoft Office.
 Как открыть редактор макросов
 
